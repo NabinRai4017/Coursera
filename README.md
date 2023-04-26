@@ -1,6 +1,6 @@
 # Coursera-iOS
 
-This repository contains materials and final projects which I created during the study of Coursera courses for [click here](https://www.coursera.org/professional-certificates/meta-ios-developer)
+This repository contains materials and final projects which I created during the study of Coursera [courses](https://www.coursera.org/professional-certificates/meta-ios-developer) for 
 ## Meta iOS Developer Professional Certificate
 
 
